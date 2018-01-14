@@ -7,3 +7,5 @@ composant nom {
     value->x;
     push(x,value);
 }
+
+Ceci est une modification pour vérifier commit du 14 Janvier au soir
